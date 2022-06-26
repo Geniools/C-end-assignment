@@ -1,0 +1,16 @@
+D:\Programming\C#\boat_rental\bin\Debug\boat_rental.exe.config
+D:\Programming\C#\boat_rental\bin\Debug\boat_rental.exe
+D:\Programming\C#\boat_rental\bin\Debug\boat_rental.pdb
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.csproj.AssemblyReference.cache
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.Properties.Resources.resources
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.csproj.GenerateResource.cache
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.csproj.CoreCompileInputs.cache
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.exe
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.pdb
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.MainForm.resources
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.StartForm.resources
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.BoatAdmin.resources
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.About.resources
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.CustomerAdmin.resources
+D:\Programming\C#\boat_rental\obj\Debug\boat_rental.DayStatistics.resources
